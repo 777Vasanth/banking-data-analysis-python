@@ -1,0 +1,23 @@
+[
+    {"CustomerID":"C001","Name":"Arun Kumar","Age":28,"City":"Chennai","Income":450000},
+    {"CustomerID":"C002","Name":"Anitha Devi","Age":34,"City":"Bangalore","Income":620000},
+    {"CustomerID":"C003","Name":"Rahul Sharma","Age":41,"City":"Delhi","Income":820000},
+    {"CustomerID":"C004","Name":"Pooja R","Age":29,"City":"Chennai","Income":520000},
+    {"CustomerID":"C005","Name":"Suresh B","Age":37,"City":"Coimbatore","Income":710000},
+    {"CustomerID":"C006","Name":"Meena K","Age":45,"City":"Madurai","Income":480000},
+    {"CustomerID":"C007","Name":"Karthik M","Age":31,"City":"Hyderabad","Income":650000},
+    {"CustomerID":"C008","Name":"Divya S","Age":26,"City":"Chennai","Income":390000},
+    {"CustomerID":"C009","Name":"Vikram J","Age":39,"City":"Pune","Income":900000},
+    {"CustomerID":"C010","Name":"Nandhini T","Age":33,"City":"Salem","Income":560000},
+    {"CustomerID":"C011","Name":"Ramesh L","Age":47,"City":"Trichy","Income":740000},
+    {"CustomerID":"C012","Name":"Kavya P","Age":24,"City":"Chennai","Income":320000},
+    {"CustomerID":"C013","Name":"Sathish V","Age":36,"City":"Erode","Income":680000},
+    {"CustomerID":"C014","Name":"Deepa A","Age":42,"City":"Bangalore","Income":810000},
+    {"CustomerID":"C015","Name":"Manoj K","Age":27,"City":"Vellore","Income":410000},
+    {"CustomerID":"C016","Name":"Priya N","Age":35,"City":"Chennai","Income":590000},
+    {"CustomerID":"C017","Name":"Ajith R","Age":49,"City":"Tanjore","Income":870000},
+    {"CustomerID":"C018","Name":"Swathi M","Age":30,"City":"Tirunelveli","Income":500000},
+    {"CustomerID":"C019","Name":"Harish D","Age":38,"City":"Chennai","Income":760000},
+    {"CustomerID":"C020","Name":"Keerthi S","Age":32,"City":"Coimbatore","Income":610000}
+  ]
+

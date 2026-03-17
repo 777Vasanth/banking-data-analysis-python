@@ -1,0 +1,22 @@
+[
+    {"InvestmentID":"I001","CustomerID":"C001","Type":"Mutual Fund","Amount":80000},
+    {"InvestmentID":"I002","CustomerID":"C002","Type":"Stocks","Amount":120000},
+    {"InvestmentID":"I003","CustomerID":"C003","Type":"Bonds","Amount":200000},
+    {"InvestmentID":"I004","CustomerID":"C004","Type":"Mutual Fund","Amount":60000},
+    {"InvestmentID":"I005","CustomerID":"C005","Type":"Stocks","Amount":250000},
+    {"InvestmentID":"I006","CustomerID":"C006","Type":"Bonds","Amount":70000},
+    {"InvestmentID":"I007","CustomerID":"C007","Type":"Mutual Fund","Amount":90000},
+    {"InvestmentID":"I008","CustomerID":"C008","Type":"Stocks","Amount":50000},
+    {"InvestmentID":"I009","CustomerID":"C009","Type":"Real Estate","Amount":500000},
+    {"InvestmentID":"I010","CustomerID":"C010","Type":"Mutual Fund","Amount":85000},
+    {"InvestmentID":"I011","CustomerID":"C011","Type":"Stocks","Amount":180000},
+    {"InvestmentID":"I012","CustomerID":"C012","Type":"Bonds","Amount":40000},
+    {"InvestmentID":"I013","CustomerID":"C013","Type":"Mutual Fund","Amount":110000},
+    {"InvestmentID":"I014","CustomerID":"C014","Type":"Real Estate","Amount":450000},
+    {"InvestmentID":"I015","CustomerID":"C015","Type":"Stocks","Amount":60000},
+    {"InvestmentID":"I016","CustomerID":"C016","Type":"Mutual Fund","Amount":95000},
+    {"InvestmentID":"I017","CustomerID":"C017","Type":"Bonds","Amount":210000},
+    {"InvestmentID":"I018","CustomerID":"C018","Type":"Stocks","Amount":88000},
+    {"InvestmentID":"I019","CustomerID":"C019","Type":"Mutual Fund","Amount":140000},
+    {"InvestmentID":"I020","CustomerID":"C020","Type":"Stocks","Amount":125000}
+  ]

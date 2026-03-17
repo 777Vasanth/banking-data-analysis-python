@@ -1,0 +1,122 @@
+[
+    {
+      "LoanID": "L001",
+      "CustomerID": "C001",
+      "Type": "Personal",
+      "Amount": 150000
+    },
+    {
+      "LoanID": "L002",
+      "CustomerID": "C002",
+      "Type": "Home",
+      "Amount": 1200000
+    },
+    {
+      "LoanID": "L003",
+      "CustomerID": "C003",
+      "Type": "Car",
+      "Amount": 500000
+    },
+    {
+      "LoanID": "L004",
+      "CustomerID": "C004",
+      "Type": "Personal",
+      "Amount": 200000
+    },
+    {
+      "LoanID": "L005",
+      "CustomerID": "C005",
+      "Type": "Home",
+      "Amount": 1800000
+    },
+    {
+      "LoanID": "L006",
+      "CustomerID": "C006",
+      "Type": "Education",
+      "Amount": 300000
+    },
+    {
+      "LoanID": "L007",
+      "CustomerID": "C007",
+      "Type": "Car",
+      "Amount": 600000
+    },
+    {
+      "LoanID": "L008",
+      "CustomerID": "C008",
+      "Type": "Personal",
+      "Amount": 100000
+    },
+    {
+      "LoanID": "L009",
+      "CustomerID": "C009",
+      "Type": "Home",
+      "Amount": 2500000
+    },
+    {
+      "LoanID": "L010",
+      "CustomerID": "C010",
+      "Type": "Education",
+      "Amount": 350000
+    },
+    {
+      "LoanID": "L011",
+      "CustomerID": "C011",
+      "Type": "Car",
+      "Amount": 550000
+    },
+    {
+      "LoanID": "L012",
+      "CustomerID": "C012",
+      "Type": "Personal",
+      "Amount": 90000
+    },
+    {
+      "LoanID": "L013",
+      "CustomerID": "C013",
+      "Type": "Home",
+      "Amount": 1400000
+    },
+    {
+      "LoanID": "L014",
+      "CustomerID": "C014",
+      "Type": "Car",
+      "Amount": 750000
+    },
+    {
+      "LoanID": "L015",
+      "CustomerID": "C015",
+      "Type": "Education",
+      "Amount": 280000
+    },
+    {
+      "LoanID": "L016",
+      "CustomerID": "C016",
+      "Type": "Personal",
+      "Amount": 220000
+    },
+    {
+      "LoanID": "L017",
+      "CustomerID": "C017",
+      "Type": "Home",
+      "Amount": 2000000
+    },
+    {
+      "LoanID": "L018",
+      "CustomerID": "C018",
+      "Type": "Car",
+      "Amount": 480000
+    },
+    {
+      "LoanID": "L019",
+      "CustomerID": "C019",
+      "Type": "Personal",
+      "Amount": 260000
+    },
+    {
+      "LoanID": "L020",
+      "CustomerID": "C020",
+      "Type": "Education",
+      "Amount": 320000
+    }
+  ]

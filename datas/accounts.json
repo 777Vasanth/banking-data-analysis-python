@@ -1,0 +1,22 @@
+[
+    {"AccountID":"A001","CustomerID":"C001","Type":"Savings","Balance":120000},
+    {"AccountID":"A002","CustomerID":"C002","Type":"Current","Balance":240000},
+    {"AccountID":"A003","CustomerID":"C003","Type":"Savings","Balance":350000},
+    {"AccountID":"A004","CustomerID":"C004","Type":"Savings","Balance":180000},
+    {"AccountID":"A005","CustomerID":"C005","Type":"Fixed Deposit","Balance":500000},
+    {"AccountID":"A006","CustomerID":"C006","Type":"Savings","Balance":90000},
+    {"AccountID":"A007","CustomerID":"C007","Type":"Current","Balance":275000},
+    {"AccountID":"A008","CustomerID":"C008","Type":"Savings","Balance":60000},
+    {"AccountID":"A009","CustomerID":"C009","Type":"Fixed Deposit","Balance":800000},
+    {"AccountID":"A010","CustomerID":"C010","Type":"Savings","Balance":150000},
+    {"AccountID":"A011","CustomerID":"C011","Type":"Current","Balance":300000},
+    {"AccountID":"A012","CustomerID":"C012","Type":"Savings","Balance":45000},
+    {"AccountID":"A013","CustomerID":"C013","Type":"Savings","Balance":210000},
+    {"AccountID":"A014","CustomerID":"C014","Type":"Fixed Deposit","Balance":650000},
+    {"AccountID":"A015","CustomerID":"C015","Type":"Savings","Balance":98000},
+    {"AccountID":"A016","CustomerID":"C016","Type":"Current","Balance":260000},
+    {"AccountID":"A017","CustomerID":"C017","Type":"Fixed Deposit","Balance":720000},
+    {"AccountID":"A018","CustomerID":"C018","Type":"Savings","Balance":135000},
+    {"AccountID":"A019","CustomerID":"C019","Type":"Current","Balance":340000},
+    {"AccountID":"A020","CustomerID":"C020","Type":"Savings","Balance":195000}
+  ]

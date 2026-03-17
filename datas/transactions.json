@@ -1,0 +1,23 @@
+[
+    {"TxnID":"T001","AccountID":"A001","Amount":15000,"Type":"Debit"},
+    {"TxnID":"T002","AccountID":"A002","Amount":22000,"Type":"Credit"},
+    {"TxnID":"T003","AccountID":"A003","Amount":30000,"Type":"Debit"},
+    {"TxnID":"T004","AccountID":"A004","Amount":12000,"Type":"Credit"},
+    {"TxnID":"T005","AccountID":"A005","Amount":50000,"Type":"Credit"},
+    {"TxnID":"T006","AccountID":"A006","Amount":8000,"Type":"Debit"},
+    {"TxnID":"T007","AccountID":"A007","Amount":27000,"Type":"Credit"},
+    {"TxnID":"T008","AccountID":"A008","Amount":6000,"Type":"Debit"},
+    {"TxnID":"T009","AccountID":"A009","Amount":100000,"Type":"Credit"},
+    {"TxnID":"T010","AccountID":"A010","Amount":14000,"Type":"Debit"},
+    {"TxnID":"T011","AccountID":"A011","Amount":35000,"Type":"Credit"},
+    {"TxnID":"T012","AccountID":"A012","Amount":4000,"Type":"Debit"},
+    {"TxnID":"T013","AccountID":"A013","Amount":20000,"Type":"Debit"},
+    {"TxnID":"T014","AccountID":"A014","Amount":75000,"Type":"Credit"},
+    {"TxnID":"T015","AccountID":"A015","Amount":9000,"Type":"Debit"},
+    {"TxnID":"T016","AccountID":"A016","Amount":28000,"Type":"Credit"},
+    {"TxnID":"T017","AccountID":"A017","Amount":65000,"Type":"Credit"},
+    {"TxnID":"T018","AccountID":"A018","Amount":16000,"Type":"Debit"},
+    {"TxnID":"T019","AccountID":"A019","Amount":42000,"Type":"Credit"},
+    {"TxnID":"T020","AccountID":"A020","Amount":18000,"Type":"Debit"}
+  ]
+
